@@ -16,7 +16,7 @@ I'm a software engineer who's passionate about security.  I spend my days workin
 
 ## AWS
 ### Marketplace
-- Delivered delivered for testing cloud services
+- Delivered services for testing cloud services before deployment in special regions
 - Lead efforts for security certifications
 - Drove daily standups and sprint plannings
 - Managed workload across team, ensuring timely delivery of features with sustained uptime
